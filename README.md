@@ -9,6 +9,8 @@ Licencia:Creative Commons Atribución-CompartirIgual 3.0 (CC BY-SA 3.0)
 
 Descripción de la licencia: Esta licencia permite copiar, distribuir, modificar y utilizar la imagen incluso con fines comerciales, siempre que se dé crédito al autor original y que cualquier obra derivada se comparta bajo la misma licencia.
 
+Obtenido de Wikipedia Commons
+
 # Tortuga 
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/ce0c52fb-b711-498d-9715-d024a71662ee" />
@@ -18,6 +20,8 @@ Autor: Inagloria de Brocken
 Licencia: Creative Commons Atribución-CompartirIgual 4.0 (CC BY-SA 4.0)
 
 Descripción de la licencia: Esta licencia permite copiar, distribuir, modificar y utilizar la imagen incluso con fines comerciales, siempre que se dé crédito al autor original y que cualquier obra derivada se comparta bajo la misma licencia.
+
+Obtenido de Wikipedia Commons
 
 # Mantarraya
 
@@ -29,4 +33,5 @@ Autor: David Sim (Londres, Reino Unido)
 Licencia: Creative Commons Atribución 2.0 (CC BY 2.0)
 
 Descripción de la licencia: Esta licencia permite copiar, distribuir, modificar y usar la imagen incluso con fines comerciales, siempre que se dé el crédito correspondiente al autor original.
-#
+
+Obtenido de Wikipedia Commons.
