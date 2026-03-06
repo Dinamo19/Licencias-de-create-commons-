@@ -15,6 +15,9 @@ Descripción de la licencia: Esta licencia permite copiar, distribuir, modificar
 
 # Mantarraya
 
+link: <img width="640" height="427" alt="image" src="https://github.com/user-attachments/assets/a4612d21-1c3b-45ea-8bd6-9a964171ab69" />
+
+
 Autor: David Sim (Londres, Reino Unido)
 
 Licencia: Creative Commons Atribución 2.0 (CC BY 2.0)
