@@ -35,3 +35,15 @@ Licencia: Creative Commons Atribución 2.0 (CC BY 2.0)
 Descripción de la licencia: Esta licencia permite copiar, distribuir, modificar y usar la imagen incluso con fines comerciales, siempre que se dé el crédito correspondiente al autor original.
 
 Obtenido de Wikipedia Commons.
+
+# Girasol
+
+<img width="640" height="709" alt="image" src="https://github.com/user-attachments/assets/980ee4ae-836d-4729-aeb6-b5402a6a41d9" />
+
+Autor: Fir0002
+
+Licencia: Licencia de Documentación Libre GNU 1.2 (GFDL 1.2)
+
+Descripción de la licencia: Esta licencia permite copiar, distribuir y modificar la imagen libremente, incluso con fines comerciales, siempre que se mantenga la misma licencia y se incluya la atribución correspondiente al autor.
+
+Obtenido de Wikipedia Commons.
